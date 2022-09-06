@@ -1,1 +1,1 @@
-a script that createsan alias
+a script that displays the result of BREATH to the power LOVE
