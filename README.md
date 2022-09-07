@@ -1,1 +1,1 @@
-a script that displays the result of BREATH to the power LOVE
+Display the content of /etc/passwd and /etc/hosts
